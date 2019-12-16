@@ -1,15 +1,15 @@
 # README
 
 ## Application name（アプリ名）
-frutweet
+frutweet2
 
 ## Overview（概要）
-This rails application implements responsive navigation bar
-（このrailsアプリケーションはレスポンシブなナビバーを実装している）
+This rails application implements Slide function of the image
+（このrailsアプリケーションは画像のスライド機能を実装している）
 
 ## Demo（GIF）
 
-[![Image from Gyazo](https://i.gyazo.com/18359c7214298e7feb85aa3e5b26618c.gif)](https://gyazo.com/18359c7214298e7feb85aa3e5b26618c)
+[![Image from Gyazo](https://i.gyazo.com/6fbe22c2695c78e81707c7e8b3c26583.gif)](https://gyazo.com/6fbe22c2695c78e81707c7e8b3c26583)
 
 ## Environments（環境）
 - ruby：2.5.1
