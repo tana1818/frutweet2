@@ -8,7 +8,6 @@ This rails application implements Slide function of the image
 （このrailsアプリケーションは画像のスライド機能を実装している）
 
 ## Demo（GIF）
-
 [![Image from Gyazo](https://i.gyazo.com/6fbe22c2695c78e81707c7e8b3c26583.gif)](https://gyazo.com/6fbe22c2695c78e81707c7e8b3c26583)
 
 ## Environments（環境）
